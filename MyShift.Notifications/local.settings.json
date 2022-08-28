@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "QueueName": "test4",
+    "QueueTriggerName": "test3",
+    "MicrosoftAppId": "d472c8f6-2966-4468-b6ab-9cd62b16dd9e",
+    "MicrosoftAppPassword": "2488Q~UA7QwevmaF62VZ300oV-F-vjwgIgfkxdkO"
+
+  },
+  "repositoryOptions" : {
+    "storageAccountName" : "dsfsd",
+    "connectionString": "sdfsdf"
+  }
+}
