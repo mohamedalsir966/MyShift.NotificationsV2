@@ -1,19 +1,7 @@
 ﻿using AdaptiveCards;
-using Azure.Storage.Queues;
-using Microsoft.Bot.Schema;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Identity.Client;
-using Microsoft.IdentityModel.Clients.ActiveDirectory;
 using MyShift.Notifications.Entitys;
 using MyShift.Notifications.Helpers.Notification;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 using Persistence.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace MyShift.Notifications.Service

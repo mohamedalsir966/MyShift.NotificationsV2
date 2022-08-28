@@ -1,14 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 using Persistence.Repositories;
-using Azure.Core;
-using Azure;
-using Microsoft.AspNetCore.Mvc;
-using System.Net;
 using System.Threading;
 using Microsoft.Bot.Schema;
 using MyShift.Notifications.Helpers.Cards;
